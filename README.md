@@ -68,3 +68,12 @@ After repeated attempts, I got the best result:
 The test accuracy is 0.715 which is the highest result. This version selectively
 retains part of image enhancement and using oversampling to reduce class
 imbalance, get the best test set results.
+
+# Appendix
+result images
+![image](https://github.com/JAX627/DeepLearning_CV_Skin_Cancer_Classification/assets/113168400/4ce6b05d-1854-4f91-a217-2539a87d4270)
+![image](https://github.com/JAX627/DeepLearning_CV_Skin_Cancer_Classification/assets/113168400/d837f6be-2185-4942-8e80-cf2c97b2a98d)
+
+training on RTX3090 for half hour for 20 epochs
+the weight file in gdrive:
+https://drive.google.com/file/d/1sgCkbf38y6j6MpP6haTyHT6rPvFwClKM/view?usp=sharing
